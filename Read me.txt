@@ -1,0 +1,47 @@
+National University of Technology (NUTECH)
+------------------------------------------
+
+Digital Signal Processing - CEN - 4021
+------------------------------------------
+
+Developer Information :
+-----------------------
+			Name: 				Muhammad Sami Uddin Rafay
+			Reg No.:			F18604013
+			Department:			Computer Engineering
+			Semester:			06
+			Date:				27 July 2021 
+
+
+End Semester Project: Dual Tone Multi Frequency Implementation with Graphical User Interface (GUI)
+--------------------------------------------------------------------------------------------------
+
+DTMF.py is the main project file to be executed.
+-------
+
+GUI Image.PNG is the Project GUI Screenshoot.
+-------------
+
+DSP Project - DTMF.ui is the Qt Designer file for Project GUI Design.
+---------------------
+
+Instructions:
+-------------
+ -> Please install Pycharm Community Edition.
+ -> Install Python in your PC.
+ -> Install all Libraries imported in DTMF.py.
+ -> Open the folder "SAMI DSP Project" in Pycharm.
+ -> Open the Script DTMF.py
+ -> Run the file and a User Interface of DTMF will be appeared.
+ -> Enjoy this Tiny DTMF APP project testing.
+
+User Manual: after executing the app press different buttons to test the app and enjoy the tones.
+------------
+
+Submitted to: Dr. Qasim Mehmood Chaudary
+
+Message: I am very thankful to you for giving me opportunity to develop a real-world project to enhance my
+	 my understanding and interest in DSP. I really enjoyed while implementing this project and I am 
+	 directed to learn more in signal processing field.
+
+Suggessions: It had been more interesting that if we implemented the Orthogonal Frequency Division Multiplexing (OFDM).  
