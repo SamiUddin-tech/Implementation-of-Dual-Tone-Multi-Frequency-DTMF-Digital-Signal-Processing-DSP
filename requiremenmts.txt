@@ -1,0 +1,6 @@
+sounddevice
+pyqtgraph
+math
+PyQt5
+sys
+numpy
